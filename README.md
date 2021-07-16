@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**jaydenkoh/jaydenkoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on PreMiD Presences
+- 🌱 I’m currently learning at school
+- 👯 I’m looking to collaborate on nothing
+- 🤔 I’m looking for help with nothing
+- 📫 How to reach me: rushia#6960 on Discord
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I'm 13
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align='center'>
+  My GitHub stats idk
+</h3>
+
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=jaydenkoh&show_icons=true&count_private=true&hide_border=true&bg_color=338DFF&title_color=D76C94&text_color=FFFFFF" width="500"></a>
+</p>
