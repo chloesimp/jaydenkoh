@@ -1,13 +1,13 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on PreMiD Presences
+- 🔭 I’m currently working on **rushiabot**
 - 🌱 I’m currently learning at school
 - 👯 I’m looking to collaborate on nothing
 - 🤔 I’m looking for help with nothing
-- 📫 How to reach me: rushia#6960 on Discord
+- 📫 How to reach me: BlacBrue#6960 on Discord
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm 13
+- ⚡ Fun fact: I'm 13 and i do not like depression
 
 <h3 align='center'>
   My GitHub stats idk
